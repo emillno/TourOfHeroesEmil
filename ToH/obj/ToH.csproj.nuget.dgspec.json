@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emillno/Desktop/UNI/4. Semester/SWD - SoftwareDesign/TourOfHeroes Emil/ToH/ToH.csproj": {}
+    "/Users/emillno/Desktop/UNI/4. Semester/SWD - SoftwareDesign/TourOfHeroesEmil/ToH/ToH.csproj": {}
   },
   "projects": {
-    "/Users/emillno/Desktop/UNI/4. Semester/SWD - SoftwareDesign/TourOfHeroes Emil/ToH/ToH.csproj": {
+    "/Users/emillno/Desktop/UNI/4. Semester/SWD - SoftwareDesign/TourOfHeroesEmil/ToH/ToH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emillno/Desktop/UNI/4. Semester/SWD - SoftwareDesign/TourOfHeroes Emil/ToH/ToH.csproj",
+        "projectUniqueName": "/Users/emillno/Desktop/UNI/4. Semester/SWD - SoftwareDesign/TourOfHeroesEmil/ToH/ToH.csproj",
         "projectName": "ToH",
-        "projectPath": "/Users/emillno/Desktop/UNI/4. Semester/SWD - SoftwareDesign/TourOfHeroes Emil/ToH/ToH.csproj",
+        "projectPath": "/Users/emillno/Desktop/UNI/4. Semester/SWD - SoftwareDesign/TourOfHeroesEmil/ToH/ToH.csproj",
         "packagesPath": "/Users/emillno/.nuget/packages/",
-        "outputPath": "/Users/emillno/Desktop/UNI/4. Semester/SWD - SoftwareDesign/TourOfHeroes Emil/ToH/obj/",
+        "outputPath": "/Users/emillno/Desktop/UNI/4. Semester/SWD - SoftwareDesign/TourOfHeroesEmil/ToH/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emillno/.nuget/NuGet/NuGet.Config"

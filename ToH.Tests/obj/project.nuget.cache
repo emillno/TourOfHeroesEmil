@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hzUFNFeN1P3heiXlBNoe5/JcDfUOjRvyPf5fIIzDCFoW5QvzdyEY5avodyyCMbdSz2FZJbmlXLZ5A877TZvtng==",
+  "dgSpecHash": "oS9TtbFk7NU0XAFy5GTw1TWrMB/95aQPqslHhVmCU6eY3tCZ4zqoTTNYhmpf0OO26Qq3y7TTMD1LLWUnGcCYiw==",
   "success": true,
-  "projectFilePath": "/Users/emillno/Desktop/UNI/4. Semester/SWD - SoftwareDesign/TourOfHeroes Emil/ToH.Tests/ToH.Tests.csproj",
+  "projectFilePath": "/Users/emillno/Desktop/UNI/4. Semester/SWD - SoftwareDesign/TourOfHeroesEmil/ToH.Tests/ToH.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/emillno/.nuget/packages/castle.core/4.4.1/castle.core.4.4.1.nupkg.sha512",
     "/Users/emillno/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",
